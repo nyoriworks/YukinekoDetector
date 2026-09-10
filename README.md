@@ -44,7 +44,7 @@ The project includes the app, Safari Web Extension, and iOS/macOS Share extensio
 
 ## Support
 
-For bugs and feature requests, open an [issue](https://github.com/nyoriworks/YukinekoDetector/issues).
+Setup instructions, troubleshooting, and contact details are available on the [YukinekoDetector Support page](SUPPORT.md). To ask a question, report a bug, or request a feature, open a [support ticket](https://github.com/nyoriworks/YukinekoDetector/issues/new).
 
 ## Privacy Policy
 
